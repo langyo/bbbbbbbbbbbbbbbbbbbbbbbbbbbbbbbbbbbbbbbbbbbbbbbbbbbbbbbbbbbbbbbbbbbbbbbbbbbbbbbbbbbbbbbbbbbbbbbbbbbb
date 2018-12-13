@@ -1,0 +1,2 @@
+10 PRINT "B"
+20 GOTO 10
